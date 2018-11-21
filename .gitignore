@@ -1,0 +1,16 @@
+.idea/
+
+pytorch_challenge/.ipynb_checkpoints/
+pytorch_challenge/flower_data/
+
+dog-project/.ipynb_checkpoints/
+dog-project/dogImages/
+dog-project/lfw/
+dog-project/saved_models/
+
+tv-script-generation/.ipynb_checkpoints/
+
+face_generation/.ipynb_checkpoints/
+face_generation/data/
+
+RL-Quadcopter-2/.ipynb_checkpoints/
