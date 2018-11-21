@@ -8,13 +8,13 @@ URL: https://www.udacity.com/facebook-pytorch-scholarship
 
 ### Projects
 
-* [Image Classifier](https://github.com/valeriano-manassero/udacity-projects/pytorch_challenge)
+* [Image Classifier](https://github.com/valeriano-manassero/udacity-projects/tree/master/pytorch_challenge)
 
 ## Deep Learning Nanodegree Program
 
 URL: https://www.udacity.com/course/deep-learning-nanodegree--nd101
 
-* [Dog Breed Classifier](https://github.com/valeriano-manassero/udacity-projects/dog-project)
-* [TV Script Generation](https://github.com/valeriano-manassero/udacity-projects/tv-script-generation)
-* [Face Generation](https://github.com/valeriano-manassero/udacity-projects/face_generation)
-* [Deep RL Quadcopter Controller](https://github.com/valeriano-manassero/udacity-projects/RL-Quadcopter-2)
+* [Dog Breed Classifier](https://github.com/valeriano-manassero/udacity-projects/tree/master/dog-project)
+* [TV Script Generation](https://github.com/valeriano-manassero/udacity-projects/tree/master/tv-script-generation)
+* [Face Generation](https://github.com/valeriano-manassero/udacity-projects/tree/master/face_generation)
+* [Deep RL Quadcopter Controller](https://github.com/valeriano-manassero/udacity-projects/tree/master/RL-Quadcopter-2)
