@@ -18,3 +18,9 @@ URL: https://www.udacity.com/course/deep-learning-nanodegree--nd101
 * [TV Script Generation](https://github.com/valeriano-manassero/udacity-projects/tree/master/tv-script-generation)
 * [Face Generation](https://github.com/valeriano-manassero/udacity-projects/tree/master/face_generation)
 * [Deep RL Quadcopter Controller](https://github.com/valeriano-manassero/udacity-projects/tree/master/RL-Quadcopter-2)
+
+## Machine Learning DevOps engineer Nanodegree Program
+
+URL: https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821
+
+* [Predict Customer Churn](https://github.com/valeriano-manassero/udacity-projects/tree/master/predict-customer-churn)
