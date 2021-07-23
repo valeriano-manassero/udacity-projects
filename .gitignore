@@ -1,4 +1,4 @@
-.idea/
+.DS_Store
 
 pytorch_challenge/.ipynb_checkpoints/
 pytorch_challenge/flower_data/

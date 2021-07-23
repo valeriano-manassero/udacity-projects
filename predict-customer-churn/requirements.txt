@@ -1,0 +1,10 @@
+joblib==1.0.1
+matplotlib==3.4.2
+numpy==1.21.1
+pandas==1.3.0
+Pillow==8.3.1
+pylint==2.9.5
+pytest==6.2.4
+scikit-learn==0.24.2
+scipy==1.7.0
+seaborn==0.11.1
