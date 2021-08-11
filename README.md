@@ -24,4 +24,5 @@ URL: https://www.udacity.com/course/deep-learning-nanodegree--nd101
 URL: https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821
 
 * [Predict Customer Churn](https://github.com/valeriano-manassero/udacity-projects/tree/master/predict-customer-churn)
-* [Build an ML Pipeline for Short-Term Rental Prices in NYC](https://github.com/valeriano-manassero/udacity-projects/tree/master/pipeline-rental-prices-nyc)
+* [Build a ML Pipeline for Short-Term Rental Prices in NYC](https://github.com/valeriano-manassero/udacity-projects/tree/master/pipeline-rental-prices-nyc)
+* [Publish a ML on Heroku with FastAPI](https://github.com/valeriano-manassero/udacity-projects/tree/master/ml-heroku-fastapi)
