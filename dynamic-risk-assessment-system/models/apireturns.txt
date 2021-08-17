@@ -1,0 +1,28 @@
+[1 0 0 0 1]
+0.5714285714285715
+[['lastmonth_activity', 'mean', 76.6], ['lastmonth_activity', 'median', 34.0], ['lastmonth_activity', 'standard deviation', 96.13948200401332], ['lastyear_activity', 'mean', 3100.4], ['lastyear_activity', 'median', 675.0], ['lastyear_activity', 'standard deviation', 5232.801907200386], ['number_of_employees', 'mean', 227.2], ['number_of_employees', 'median', 25.0], ['number_of_employees', 'standard deviation', 433.7138457554704]]
+execution_time:[['training.py', 0.8716696709999994], ['ingestion.py', 0.4071943020000006]]
+missing_data;[['corporation', '0%'], ['lastmonth_activity', '0%'], ['lastyear_activity', '0%'], ['number_of_employees', '0%'], ['exited', '0%']]
+outdated_packages:Package            Version             Latest Type
+------------------ ------------------- ------ -----
+click              7.1.2               8.0.1  wheel
+Flask              1.1.2               2.0.1  wheel
+gunicorn           20.0.4              20.1.0 wheel
+importlib-metadata 4.6.3               4.6.4  wheel
+itsdangerous       1.1.0               2.0.1  wheel
+Jinja2             2.11.3              3.0.1  wheel
+MarkupSafe         1.1.1               2.0.1  wheel
+matplotlib         3.3.4               3.4.3  wheel
+numpy              1.20.1              1.21.2 wheel
+pandas             1.2.2               1.3.2  wheel
+Pillow             8.1.0               8.3.1  wheel
+pip                21.2.2              21.2.4 wheel
+python-dateutil    2.8.1               2.8.2  wheel
+scikit-learn       0.24.1              0.24.2 wheel
+scipy              1.6.1               1.7.1  wheel
+seaborn            0.11.1              0.11.2 wheel
+setuptools         52.0.0.post20210125 57.4.0 wheel
+six                1.15.0              1.16.0 wheel
+threadpoolctl      2.1.0               2.2.0  wheel
+Werkzeug           1.0.1               2.0.1  wheel
+wheel              0.36.2              0.37.0 wheel

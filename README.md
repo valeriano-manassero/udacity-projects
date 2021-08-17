@@ -26,3 +26,4 @@ URL: https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree
 * [Predict Customer Churn](https://github.com/valeriano-manassero/udacity-projects/tree/main/predict-customer-churn)
 * [Build a ML Pipeline for Short-Term Rental Prices in NYC](https://github.com/valeriano-manassero/udacity-projects/tree/main/pipeline-rental-prices-nyc)
 * [Publish a ML on Heroku with FastAPI](https://github.com/valeriano-manassero/udacity-projects/tree/main/ml-heroku-fastapi)
+* [Dynamic Risk Assessment System](https://github.com/valeriano-manassero/udacity-projects/tree/main/dynamic-risk-assessment-system)
